@@ -23,7 +23,7 @@ The dashboard transforms raw marketing data into meaningful insights, enabling u
 > **Dashboard**
 
 <p align="center">
-<img src="Images/Dashboard.png" width="100%">
+<img src="Screenshot 2026-07-01 220246.png" width="100%">
 </p>
 
 ---
